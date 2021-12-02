@@ -71,5 +71,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 
-# ignore those oversize assets
-ClearSky*
+# ignore those imported packages
+Assets/Resources/Packages/
